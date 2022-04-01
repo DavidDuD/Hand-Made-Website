@@ -1,0 +1,22 @@
+header {
+    font-size: 90px;
+    font-family: 'Bungee Shade', cursive;
+}
+body {
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Barrio', cursive;
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Barrio', cursive;
+}
+

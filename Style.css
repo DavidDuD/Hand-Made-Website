@@ -1,0 +1,21 @@
+header {
+    font-family: 'Rock 3D', cursive;
+        font-size: 150px;
+        
+}
+h1 {
+    text-align: center;
+    font-family: 'Palette Mosaic', cursive;
+    font-size: 80px;
+    font-weight: 100;
+}
+
+a {
+    color: aquamarine;
+}
+
+footer {
+    font-family: 'Ruslan Display', cursive;
+    font-size: 30px;
+    font-weight: 50;
+}

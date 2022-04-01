@@ -1,0 +1,19 @@
+header {
+    font-size:  70px;
+    font-family: 'Rock 3D', cursive;
+  
+}
+
+p {
+    
+    font-size: 40px;
+    font-family: 'Palette Mosaic', cursive;
+}
+
+a {
+    text-decoration:none;
+    font-family: 'Oi', cursive;
+    color: aquamarine;
+    font-size: 50px;
+}
+

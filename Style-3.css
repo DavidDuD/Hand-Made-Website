@@ -1,0 +1,24 @@
+header {
+    font-size:  50px;
+    font-family: 'Oi', cursive;
+  
+}
+
+p {
+    font-family: 'Londrina Outline', cursive;
+    font-size: 50px;
+}
+
+a {
+    text-decoration:none;
+    font-family: 'Rammetto One', cursive;
+    color: aquamarine;
+    font-size: 60px;
+}
+
+a1 {
+    font-family: 'Irish Grover', cursive;
+    color: lightcoral;
+    font-size: 70px;
+
+}

@@ -1,0 +1,28 @@
+header {
+    font-size:  70px;
+    font-family: 'Barriecito', cursive;
+  
+}
+
+p {
+    
+    font-size: 50px;
+    font-family: 'Kranky', cursive;
+}
+
+a {
+    text-decoration:none;
+    font-family: 'Fascinate Inline', cursive;
+    color: aquamarine;
+    font-size: 80px;
+    font-weight: 50;
+}
+
+a1 {
+   
+    color: aquamarine;
+    font-size: 90px;
+    color: lightcoral;
+    font-family: 'Palette Mosaic', cursive;
+
+}
